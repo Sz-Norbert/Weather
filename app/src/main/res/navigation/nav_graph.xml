@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/curentWeatherFragment">
+
+    <fragment
+        android:id="@+id/curentWeatherFragment"
+        android:name="com.nika.simpleweather.fragment.CurrentWeatherFragment"
+        android:label="CurentWeatherFragment" />
+    <fragment
+        android:id="@+id/searchLocationFragment2"
+        android:name="com.nika.simpleweather.SearchLocationFragment"
+        android:label="SearchLocationFragment" />
+
+</navigation>

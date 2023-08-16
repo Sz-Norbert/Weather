@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="temp_min">Min:</string>
+    <string name="temp_max">Max:</string>
+    <string name="degree"><![CDATA[&#176;]]></string>
+</resources>
